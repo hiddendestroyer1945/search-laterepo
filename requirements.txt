@@ -1,0 +1,2 @@
+# Python Repository Searcher Requirements
+requests>=2.31.0
